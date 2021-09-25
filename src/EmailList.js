@@ -56,15 +56,46 @@ function EmailList() {
       </div>
       <div className="emailList_list">
         <EmailRow
-          title="PotterHead"
-          subject="Hey"
-          description="This is me 👩 !!"
+          title="MS in USA"
+          subject="List of best value universities"
+          description="not all universities require top-of-the-class"
           time="10pm"
         />
         <EmailRow
           title="Hello"
           subject="Hey bangtan"
           description="This is me.. hsabl N Lbbhb Kowjdwqu qnwhbdqb dhqbiqi nqnc"
+          time="10pm"
+        />
+        <EmailRow
+          title="
+          Talent.com "
+          subject="Sowmiya, This Software Engineer Position is For You"
+          description="Your Talent․com daily job alert for Software Engineer"
+          time="10pm"
+        />
+        <EmailRow
+          title="LinkedIn"
+          subject="LinkedIn Job Alerts"
+          description="30+ new jobs in Worldwide match your preferences."
+          time="10pm"
+        />
+        <EmailRow
+          title="Project"
+          subject="Final report"
+          description="Reference journals has been sent"
+          time="8am"
+        />
+        <EmailRow
+          title="Zen Class"
+          subject="WeekEnd Schedule"
+          description="Your class time and topics are attached below."
+          time="3pm"
+        />
+        <EmailRow
+          title="Zoho"
+          subject="InterView Update"
+          description="Congrats, you have qualified to the upcoming interviews..!!"
           time="10pm"
         />
       </div>

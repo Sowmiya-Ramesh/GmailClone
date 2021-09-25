@@ -31,38 +31,6 @@ function App() {
         <SendMail />
       </div>
     </Router>
-    //   <div className="App">
-
-    //     <Header />
-    //     <div className="app_body">
-    //       <SideBar />
-    //       <Switch>
-    //         <Route path="/mail">
-    //           <Mail />
-    //         </Route>
-    //         <Route path="/">
-    //           <EmailList />
-    //         </Route>
-    //         <Route path="/compose">
-    //           <SendMail />
-    //         </Route>
-    //       </Switch>
-    //     </div>
-    //     <SendMail />
-    //   </div>
-
-    // </Router>
   );
 }
 export default App;
-
-// import React from "react";
-//import "./Mail.css";
-// function SideBar(){
-//   return(
-//     <div className="7">
-
-//     </div>
-//   )
-// }
-// export default SideBar;
